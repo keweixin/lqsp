@@ -1,0 +1,6 @@
+{
+  "name": "RescueFood 临期食品调度平台",
+  "description": "多端合一的临期膳食守护平台，包含用户、商家、骑手与管理端。",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
